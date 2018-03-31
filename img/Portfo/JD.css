@@ -1,0 +1,183 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+#wrapper{
+    width: 1000px;
+    height: 1100px;
+    background-color: #27161B;
+    background: radial-gradient(#6F5964,#27161A);
+    padding: 15px;
+}
+#heading{
+    width: 960px;
+    height: 40px;
+    padding: 20px;
+    margin: 0px 0px 20px 0px;
+    background-color: white;
+    color: black;
+}
+#heading h1{
+    display: inline-block;
+}
+#heading h3{
+    display: inline-block;
+    margin-left:594px; 
+}
+#intro{
+
+}
+.picture{
+    width: 470px;
+    height: 260px;
+    padding: 10px;
+    margin: 0px 13px 10px 0px;
+    background-color: #C0C0C0;
+    display: inline-block;   
+    
+
+}
+#about{
+    width: 480px;
+    height: 280px;
+    margin: 0px 0px 10px 13px;
+    background-color: #C0C0C0;
+    color: black;
+    display: inline-block;
+    vertical-align: top;
+}
+#about h2{
+    width: 452px;
+    height: 18px;
+    color: white;
+    padding: 14px;
+    background: radial-gradient(gray,silver);
+}
+#about p{
+    margin: 10px;
+}
+body{
+    width: 1000px;
+    height: 800px;
+    background-color: #C0C0C0;
+    color: black;
+    display: inline-block;
+    vertical-align: top;    
+
+}
+#lamode{
+    width: 310px;
+    height: 350px;
+    background: linear-gradient(#DBCCDA,#FDFCFD);
+    vertical-align: top; 
+    display: inline-block;
+
+}
+#lamode h2{
+    background-color: gray;
+    color: white;
+    padding: 5px;
+    background: radial-gradient(gray,silver);
+}
+#fam{    
+    width: 312px;
+    height: 350px;
+    background: linear-gradient(#DBCCDA,#FDFCFD);
+    vertical-align: top;
+    display:inline-block;
+    margin: 0px 30px 0px 30px;
+}
+#fam h2{
+
+    background-color: gray;
+    color: white;
+    padding: 5px;
+    background: radial-gradient(gray,silver);
+}
+#five{
+    width: 310px;
+    height: 350px;
+    background: linear-gradient(#DBCCDA,#FDFCFD);
+    vertical-align: top;
+    display:inline-block;
+}
+#five h2{
+    background-color: gray;
+    color: white;
+    padding: 5px;
+    background: radial-gradient(gray,silver);
+}
+.badge{
+    margin: 8px;
+}
+#tech-1{
+    width: 310px;
+    height: 200px;
+    vertical-align: top; 
+    display: inline-block;
+    background: linear-gradient(#DBCCDA,#FDFCFD)
+}
+#tech-1 > a{
+    width: 80px;
+    height: 50px;
+    background-color: #407D61;
+    color: white;
+    border-radius: 5px;
+    text-align: center;
+}
+#tech-1 h3{
+    background: radial-gradient(gray,silver);
+    color: white;
+}
+#tech-2{    
+    width: 312px;
+    height: 200px;
+    vertical-align: top;
+    display:inline-block;
+    margin: 0px 30px 0px 30px;
+    background: linear-gradient(#DBCCDA,#FDFCFD)
+}
+.button {
+    width: 80px;
+    margin: 0 auto;
+    background-color: #407D61;
+    color: white;
+    border: black;
+    border-radius: 5px;
+    text-align: center;
+    box-shadow: 5px 5px 5px grey;
+}
+#tech-2 h3{
+    background: radial-gradient(gray,silver);
+    color: white;
+}
+#tech-3{
+    width: 310px;
+    height: 200px;
+    vertical-align: top;
+    display:inline-block;
+    background: linear-gradient(#DBCCDA,#FDFCFD);
+
+}
+#tech-3 > a{
+    width: 80px;
+    height: 50px;
+    background-color: #407D61;
+    color: white;
+    border-radius: 5px;
+    text-align: center;
+}
+#tech-3 h3{
+    background: radial-gradient(gray,silver);
+    color: white;
+}
+#contact{
+    width: 960px;
+    height: 40px;
+    padding: 20px;
+    margin: 30px 0px 0px 0px;
+    background-color: white;
+    color: black;
+    text-align: center;
+ 
+}
