@@ -416,6 +416,7 @@ img::-moz-selection {
   /* color: #F05F40; */
   color: #0f2040e3;
   font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
+  font-family: 'Kaushan Script', 'Helvetica Neue', Helvetica, Arial, cursive;
 }
 
 #mainNav .navbar-brand:focus, #mainNav .navbar-brand:hover {
